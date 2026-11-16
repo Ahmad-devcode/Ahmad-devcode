@@ -75,8 +75,8 @@ I'm **Ahmad Raza**, a final-year **BS Computer Science** student at **Govt. Grad
 
 <div align="center">
 
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad-devcode&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-devcode&layout=compact&theme=tokyonight&hide_border=true)
+![Ahmad's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmad-devcode&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmad-devcode&theme=tokyonight)
 
 </div>
 
