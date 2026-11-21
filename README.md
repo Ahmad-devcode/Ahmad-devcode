@@ -9,7 +9,7 @@
 **Frontend Web Developer** helping businesses grow online — from Bahawalnagar to the world.
 
 [![Open to Work](https://img.shields.io/badge/Open_to_Work-Freelance_Projects-2EA043?style=for-the-badge&logo=github&logoColor=white)](mailto:ahmadraza722212@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ahmadfoliowebsite.netlify.app-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ahmadfoliowebsite.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmadfoliosite.vercel.app-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ahmadfoliosite.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad_Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/webify-design7222)
 [![Instagram](https://img.shields.io/badge/Instagram-@ahmad__devcode-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmad_devcode)
 [![Email](https://img.shields.io/badge/Email-ahmadraza722212@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadraza722212@gmail.com)
@@ -71,9 +71,9 @@ My work ranges from booking platforms and ordering systems to school portals and
 | **[PEF Competition Apply](https://github.com/Ahmad-devcode/pef-competition-apply)** | Student registration portal for the Bahawalnagar Schools Sports & Co-Curricular Competition 2026-27 | Admin panel · CSV export · React + Supabase |
 | **[CareerCompass](https://github.com/Ahmad-devcode/careercompass)** | Career counseling platform concept | Aptitude guidance · Roadmaps · Counselor booking |
 | **[FutureLearn](https://github.com/Ahmad-devcode/How-to-learn-in-Digital-world-project)** | Learning platform — "How to Learn in the Digital World" | React · TypeScript · Tailwind CSS |
-| **[Personal Portfolio](https://github.com/Ahmad-devcode/Personal-Portfolio)** | My portfolio website — projects, skills & services | Responsive · Dark premium theme · [Live Site](https://ahmadfoliowebsite.netlify.app/) |
+| **[Personal Portfolio](https://github.com/Ahmad-devcode/Personal-Portfolio)** | My portfolio website — projects, skills & services | Responsive · Dark premium theme · [Live Site](https://ahmadfoliosite.vercel.app/) |
 
-> More client work — **GharService** (home services booking), **HostelHub** (hostel booking) and **Mr. Broast** (restaurant ordering) — is showcased on my [portfolio](https://ahmadfoliowebsite.netlify.app/).
+> More client work — **GharService** (home services booking), **HostelHub** (hostel booking) and **Mr. Broast** (restaurant ordering) — is showcased on my [portfolio](https://ahmadfoliosite.vercel.app/).
 
 ---
 
